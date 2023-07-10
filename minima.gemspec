@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email    = ["wairesearchgroup@gmail.com"]
 
   spec.summary  = "WAI projects in Serious Games"
-  spec.homepage = "https://github.com/wairesearchgroup/seriousgames"
+  spec.homepage = "https://wairesearchgroup.github.io/seriousgames/"
   spec.license  = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
